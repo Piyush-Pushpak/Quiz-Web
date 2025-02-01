@@ -19,4 +19,4 @@ Features
 9. user can change previous ticked question option
 10. user can also submit before time
 
-Github Repo - https://github.com/your-username/react-quiz-app.git
+Github Repo - [https://github.com/your-username/react-quiz-app.git](https://github.com/Piyush-Pushpak/Quiz-Web.git)
